@@ -1,1 +1,1 @@
-Projeto vai ser desenvolvido aqui.
+Project will be developed right here.
